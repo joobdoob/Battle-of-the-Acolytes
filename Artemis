@@ -1,25 +1,29 @@
 Artemis: Goddess of the Hunt
-72 strength, 99% arrow accuracy
 [gets worshiped by acolytes killing animals]
 
  Skills:
-    Spawn Dear: Artemis makes dear plentiful on the battlegrounds by summoning # deer
+    Spawn Dear: Artemis makes dear plentiful on the battlegrounds by summoning # deer for no cost
     [Upgrade # of summons on level]
 
-    Shape Change: Artemis curses an opposing acolyte by transforming them into a deer, although it is only for a limited amount of turns and must also succeed a roll of the dice.
+  Curse Transform: Artemis curses an opposing acolyte by transforming them into a deer, although it is only for a limited amount of turns and must also succeed a roll of the dice.
   [Upgrade range of success on level]
+   
+    Call of the Wild: Makes animal packs stronger
 
     Hunting Spirit: The hunters praise Artemis for providing them with a successful hunt after a hunter acolyte kills an animal. Other Hunters near that hunter will have increased stats before the end of the turn.
 
 Acolytes:
-Deer: Fragile creature, Useful pawn 
+Deer: little damage, low health, just to be used as a pawn 
+Boar: mid-health/damage
+Hunting Dogs(4): fast, more damage than dear, low health pool
 
 
 Hunters: Main Accolades
-Bowman: full range boi
-Spearman: good range boi
-Horsemen: speedy Boi
+Bowman(6): full range boi
+Spearman(6): good range boi
+Trappers(3): set traps/statuses [causes rough terrain?]
+Horsemen(1): speedy Boi
 
 
-Callisto:  A Bear, good damage and speed
+Callisto(1):  A Bear, good damage and speed
 
