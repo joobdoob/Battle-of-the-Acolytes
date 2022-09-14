@@ -1,5 +1,4 @@
-Ares: God of War
-Attack: 75
+Ares: God of War 
 [gets worshiped by acolytes killing warriors]
 
  Skills:
@@ -11,10 +10,9 @@ Attack: 75
 Acolytes:
 
 
-Spartans: main Acolytes 
-Shields: good defense
-Spears: good range
-Commanders: boosts other acolytes
-Chariote: speedy boi
-Gladiator: strong boi
-
+Spartans: main Acolytes
+Gladius(6): good damage
+Spearmen(6): good range
+Signifiers(3): Support [Legion would have to be next to signifiers or else they loose moral]
+Chariote: speedy defense boi
+Centurion: strong boi
